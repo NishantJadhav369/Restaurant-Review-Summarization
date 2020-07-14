@@ -1,0 +1,241 @@
+id ,question1,question2,similarity,question1_p,question2_p
+0,Chicken,Chicken was too good,0.2345,chicken,chicken good
+1,Chicken,Lucknowi chicken was good,0.2345,chicken,lucknowi chicken good
+2,Chicken,tandoored chicken was delicious,0.1734,chicken,tandoored chicken delicious
+3,Chicken,Chicken was tender,0.1510,chicken,chicken tender
+4,Chicken,chicken dish was perfect ..,0.1341,chicken,chicken dish perfect
+5,Chicken,chicken was soft,0.1133,chicken,chicken soft
+6,Chicken,Chicken Wings were decent,0.1086,chicken,chicken wings decent
+7,Chicken,Chicken shawarma was good,0.0952,chicken,chicken shawarma good
+8,Chicken,Mamas sauce was yummy,0.0857,chicken,mamas sauce yummy
+9,Chicken,cheese balls lacked oomph factor,0.0856,chicken,cheese balls lacked oomph factor
+10,Food,Food was excellent,0.3667,food,food excellent
+11,Food,food was excellent,0.3667,food,food excellent
+12,Food,food are excellent,0.3667,food,food excellent
+13,Food,food was good,0.3372,food,food good
+14,Food,Food was Good,0.3372,food,food good
+15,Food,food was very good,0.3372,food,food good
+16,Food,food was good ENDPAD,0.3372,food,food good endpad
+17,Food,food was great,0.3267,food,food great
+18,Food,Food was really good,0.2700,food,food really good
+19,Food,Food was decent,0.2600,food,food decent
+20,I like the Pasta,Pasta arabiata was average,0.3238,like pasta,pasta arabiata average
+21,I like the Pasta,pasta was average,0.3238,like pasta,pasta average
+22,I like the Pasta,Barbeque and Smoked Chicken Pizza were very good,0.2303,like pasta,barbeque smoked chicken pizza good
+23,I like the Pasta,cheese balls lacked oomph factor,0.1928,like pasta,cheese balls lacked oomph factor
+24,I like the Pasta,Aloo tikki chole are really amazing,0.1861,like pasta,aloo tikki chole really amazing
+25,I like the Pasta,tikka chicken was better,0.1814,like pasta,tikka chicken better
+26,I like the Pasta,Sev puri looked good,0.1772,like pasta,sev puri looked good
+27,I like the Pasta,Pani puri was tasteless,0.1757,like pasta,pani puri tasteless
+28,I like the Pasta,Masala lemonade *,0.1672,like pasta,masala lemonade
+29,I like the Pasta,ball Masala lemonade Krishs,0.1648,like pasta,ball masala lemonade krishs
+30,I liked Pizza,Pizza and sizzler was good.lot,0.4868,liked pizza,pizza sizzler good lot
+31,I liked Pizza,pizza was delicious,0.4451,liked pizza,pizza delicious
+32,I liked Pizza,pizza was good,0.4236,liked pizza,pizza good
+33,I liked Pizza,pizza was quiet healthy,0.4229,liked pizza,pizza quiet healthy
+34,I liked Pizza,Pizza was perfect,0.4048,liked pizza,pizza perfect
+35,I liked Pizza,pizza was average,0.3965,liked pizza,pizza average
+36,I liked Pizza,helpful nuttella pizza was delicious,0.3475,liked pizza,helpful nuttella pizza delicious
+37,I liked Pizza,Barbeque and Smoked Chicken Pizza were very good,0.3162,liked pizza,barbeque smoked chicken pizza good
+38,I liked Pizza,pizza are ridiculously slow,0.3095,liked pizza,pizza ridiculously slow
+39,I liked Pizza,ball Masala lemonade Krishs,0.2661,liked pizza,ball masala lemonade krishs
+40,I love the pizza,pizza was delicious,0.6487,love pizza,pizza delicious
+41,I love the pizza,helpful nuttella pizza was delicious,0.6095,love pizza,helpful nuttella pizza delicious
+42,I love the pizza,Pizza was perfect,0.5634,love pizza,pizza perfect
+43,I love the pizza,pizza was average,0.4718,love pizza,pizza average
+44,I love the pizza,Pizza and sizzler was good.lot,0.4685,love pizza,pizza sizzler good lot
+45,I love the pizza,pizza was good,0.4577,love pizza,pizza good
+46,I love the pizza,Barbeque and Smoked Chicken Pizza were very good,0.4394,love pizza,barbeque smoked chicken pizza good
+47,I love the pizza,coffee was nice,0.3899,love pizza,coffee nice
+48,I love the pizza,pizza was quiet healthy,0.3704,love pizza,pizza quiet healthy
+49,I love the pizza,Keema pav was delicious,0.3648,love pizza,keema pav delicious
+50,I loved pani puri,pani puri was good,0.1951,loved pani puri,pani puri good
+51,I loved pani puri,Pani puri and sev puri are also good,0.1673,loved pani puri,pani puri sev puri also good
+52,I loved pani puri,Pani Puri and Tawa Pulao were just average,0.1098,loved pani puri,pani puri tawa pulao average
+53,I loved pani puri,idli Wada are very good,0.1085,loved pani puri,idli wada good
+54,I loved pani puri,Sev puri looked good,0.1039,loved pani puri,sev puri looked good
+55,I loved pani puri,Homemade lichi flavoured lemonade,0.1008,loved pani puri,homemade lichi flavoured lemonade
+56,I loved pani puri,Pani puri was tasteless,0.0951,loved pani puri,pani puri tasteless
+57,I loved pani puri,ball Masala lemonade Krishs,0.0913,loved pani puri,ball masala lemonade krishs
+58,I loved pani puri,Masala lemonade *,0.0829,loved pani puri,masala lemonade
+59,I loved pani puri,Other snacks are good,0.0761,loved pani puri,snacks good
+60,Keema pav was good,Keema pav was delicious,0.6990,keema pav good,keema pav delicious
+61,Keema pav was good,masala pav are special,0.4540,keema pav good,masala pav special
+62,Keema pav was good,Paratha was worth,0.4476,keema pav good,paratha worth
+63,Keema pav was good,Aloo tikki chole are really amazing,0.4469,keema pav good,aloo tikki chole really amazing
+64,Keema pav was good,helpful nuttella pizza was delicious,0.4435,keema pav good,helpful nuttella pizza delicious
+65,Keema pav was good,coffee was nice,0.4397,keema pav good,coffee nice
+66,Keema pav was good,naan was something,0.4274,keema pav good,naan something
+67,Keema pav was good,Cole samosa was good,0.4224,keema pav good,cole samosa good
+68,Keema pav was good,samosa was good,0.4104,keema pav good,samosa good
+69,Keema pav was good,stir fried veggies were really good,0.4049,keema pav good,stir fried veggies really good
+70,Mango juice was good,Orange juice was so fresh ......,0.1382,mango juice good,orange juice fresh
+71,Mango juice was good,pani puri was good,0.1010,mango juice good,pani puri good
+72,Mango juice was good,gulab jamun are too good,0.0937,mango juice good,gulab jamun good
+73,Mango juice was good,idli Wada are very good,0.0865,mango juice good,idli wada good
+74,Mango juice was good,Pani puri and sev puri are also good,0.0817,mango juice good,pani puri sev puri also good
+75,Mango juice was good,Homemade lichi flavoured lemonade,0.0783,mango juice good,homemade lichi flavoured lemonade
+76,Mango juice was good,Oreo shake was good,0.0765,mango juice good,oreo shake good
+77,Mango juice was good,Masala lemonade *,0.0732,mango juice good,masala lemonade
+78,Mango juice was good,parathas and beer lassi remain fair,0.0727,mango juice good,parathas beer lassi remain fair
+79,Mango juice was good,Vada pav and malai kulfi were also good,0.0723,mango juice good,vada pav malai kulfi also good
+80,Misal was worth it,misal recommended dishes,0.4372,misal worth,misal recommended dishes
+81,Misal was worth it,sauce was penty ..,0.3915,misal worth,sauce penty
+82,Misal was worth it,food was nice,0.3875,misal worth,food nice
+83,Misal was worth it,Food was nice,0.3875,misal worth,food nice
+84,Misal was worth it,food was very nice,0.3875,misal worth,food nice
+85,Misal was worth it,Pani puris are absolutely amazing,0.3849,misal worth,pani puris absolutely amazing
+86,Misal was worth it,breakfast was bad,0.3768,misal worth,breakfast bad
+87,Misal was worth it,chole.chole bhature was extremely delicious,0.3767,misal worth,chole chole bhature extremely delicious
+88,Misal was worth it,mutton was perfect,0.3733,misal worth,mutton perfect
+89,Misal was worth it,food had heaps,0.3508,misal worth,food heaps
+90,Paratha,Paratha was worth,0.4474,paratha,paratha worth
+91,Paratha,naan was something,0.3882,paratha,naan something
+92,Paratha,Aloo tikki chole are really amazing,0.3369,paratha,aloo tikki chole really amazing
+93,Paratha,pao bhaji was real good,0.3251,paratha,pao bhaji real good
+94,Paratha,Seekh was really spicy,0.3150,paratha,seekh really spicy
+95,Paratha,masala pav are special,0.2979,paratha,masala pav special
+96,Paratha,gulab jamun are too good,0.2928,paratha,gulab jamun good
+97,Paratha,Keema pav was delicious,0.2920,paratha,keema pav delicious
+98,Paratha,curry was almost like,0.2796,paratha,curry almost like
+99,Paratha,paneer based dishes,0.2781,paratha,paneer based dishes
+100,Parathas were delicious,biryanis are best,0.4978,parathas delicious,biryanis best
+101,Parathas were delicious,sizzlers are really great,0.4499,parathas delicious,sizzlers really great
+102,Parathas were delicious,bhature are different,0.4029,parathas delicious,bhature different
+103,Parathas were delicious,Bhature were distinctively larger,0.3935,parathas delicious,bhature distinctively larger
+104,Parathas were delicious,chole.chole bhature was extremely delicious,0.3848,parathas delicious,chole chole bhature extremely delicious
+105,Parathas were delicious,food was absolutely amazing,0.3315,parathas delicious,food absolutely amazing
+106,Parathas were delicious,food was delicious,0.2893,parathas delicious,food delicious
+107,Parathas were delicious,food was delicious service,0.2876,parathas delicious,food delicious service
+108,Parathas were delicious,Kebabs are good,0.2831,parathas delicious,kebabs good
+109,Parathas were delicious,kebabs are good,0.2831,parathas delicious,kebabs good
+110,Pasta,pasta was average,0.1362,pasta,pasta average
+111,Pasta,Pasta arabiata was average,0.1362,pasta,pasta arabiata average
+112,Pasta,Barbeque and Smoked Chicken Pizza were very good,0.0945,pasta,barbeque smoked chicken pizza good
+113,Pasta,Sev puri looked good,0.0923,pasta,sev puri looked good
+114,Pasta,Pani puri was tasteless,0.0856,pasta,pani puri tasteless
+115,Pasta,Chicken shawarma was good,0.0777,pasta,chicken shawarma good
+116,Pasta,tikka chicken was better,0.0760,pasta,tikka chicken better
+117,Pasta,cheese balls lacked oomph factor,0.0740,pasta,cheese balls lacked oomph factor
+118,Pasta,Aloo tikki chole are really amazing,0.0735,pasta,aloo tikki chole really amazing
+119,Pasta,Masala lemonade *,0.0683,pasta,masala lemonade
+120,Pizza,pizza was good,0.5124,pizza,pizza good
+121,Pizza,pizza was delicious,0.4028,pizza,pizza delicious
+122,Pizza,Pizza was perfect,0.3988,pizza,pizza perfect
+123,Pizza,pizza was thin,0.3984,pizza,pizza thin
+124,Pizza,pizza was average,0.3781,pizza,pizza average
+125,Pizza,Pizza and sizzler was good.lot,0.3306,pizza,pizza sizzler good lot
+126,Pizza,helpful nuttella pizza was delicious,0.2923,pizza,helpful nuttella pizza delicious
+127,Pizza,pizza was quiet healthy,0.2113,pizza,pizza quiet healthy
+128,Pizza,naan was something,0.2096,pizza,naan something
+129,Pizza,Barbeque and Smoked Chicken Pizza were very good,0.2040,pizza,barbeque smoked chicken pizza good
+130,Pizza was amazing,pizza was good,0.6999,pizza amazing,pizza good
+131,Pizza was amazing,pizza was delicious,0.5281,pizza amazing,pizza delicious
+132,Pizza was amazing,Pizza was perfect,0.5025,pizza amazing,pizza perfect
+133,Pizza was amazing,Pizza and sizzler was good.lot,0.4693,pizza amazing,pizza sizzler good lot
+134,Pizza was amazing,pizza was average,0.4658,pizza amazing,pizza average
+135,Pizza was amazing,helpful nuttella pizza was delicious,0.3862,pizza amazing,helpful nuttella pizza delicious
+136,Pizza was amazing,pizza was quiet healthy,0.2989,pizza amazing,pizza quiet healthy
+137,Pizza was amazing,pizza was thin,0.2928,pizza amazing,pizza thin
+138,Pizza was amazing,Barbeque and Smoked Chicken Pizza were very good,0.2841,pizza amazing,barbeque smoked chicken pizza good
+139,Pizza was amazing,naan was something,0.2621,pizza amazing,naan something
+140,The Chicken Wings were amazing,Chicken Wings were decent,0.6297,chicken wings amazing,chicken wings decent
+141,The Chicken Wings were amazing,tandoored chicken was delicious,0.4933,chicken wings amazing,tandoored chicken delicious
+142,The Chicken Wings were amazing,Chicken was too good,0.3803,chicken wings amazing,chicken good
+143,The Chicken Wings were amazing,Lucknowi chicken was good,0.3803,chicken wings amazing,lucknowi chicken good
+144,The Chicken Wings were amazing,chicken dish was perfect ..,0.3582,chicken wings amazing,chicken dish perfect
+145,The Chicken Wings were amazing,Chicken was tender,0.3036,chicken wings amazing,chicken tender
+146,The Chicken Wings were amazing,cheese balls lacked oomph factor,0.2646,chicken wings amazing,cheese balls lacked oomph factor
+147,The Chicken Wings were amazing,Mamas sauce was yummy,0.2561,chicken wings amazing,mamas sauce yummy
+148,The Chicken Wings were amazing,Aloo tikki chole are really amazing,0.2504,chicken wings amazing,aloo tikki chole really amazing
+149,The Chicken Wings were amazing,helpful nuttella pizza was delicious,0.2423,chicken wings amazing,helpful nuttella pizza delicious
+150,The biryani was decent,Biryani was too good,0.3231,biryani decent,biryani good
+151,The biryani was decent,Mutton biryani was also good,0.2514,biryani decent,mutton biryani also good
+152,The biryani was decent,Mutton biryani was delicious,0.2481,biryani decent,mutton biryani delicious
+153,The biryani was decent,Chicken biryani was really good,0.1373,biryani decent,chicken biryani really good
+154,The biryani was decent,breads were bit harder,0.0999,biryani decent,breads bit harder
+155,The biryani was decent,Paya soup was delicious,0.0875,biryani decent,paya soup delicious
+156,The biryani was decent,food was so worthwhile,0.0795,biryani decent,food worthwhile
+157,The biryani was decent,Pizzas were crisp,0.0789,biryani decent,pizzas crisp
+158,The biryani was decent,curry was almost like,0.0769,biryani decent,curry almost like
+159,The biryani was decent,naan was something,0.0768,biryani decent,naan something
+160,The food was amazing,Food was really good,0.6297,food amazing,food really good
+161,The food was amazing,food was very good,0.5458,food amazing,food good
+162,The food was amazing,food was good,0.5458,food amazing,food good
+163,The food was amazing,food was good ENDPAD,0.5458,food amazing,food good endpad
+164,The food was amazing,Food was Good,0.5458,food amazing,food good
+165,The food was amazing,food was great,0.5219,food amazing,food great
+166,The food was amazing,Food was decent,0.4965,food amazing,food decent
+167,The food was amazing,food was decent,0.4965,food amazing,food decent
+168,The food was amazing,food was delicious,0.4962,food amazing,food delicious
+169,The food was amazing,food was absolutely amazing,0.4933,food amazing,food absolutely amazing
+170,The food was terrible,food was so addictive,0.3904,food terrible,food addictive
+171,The food was terrible,food was delicious,0.3884,food terrible,food delicious
+172,The food was terrible,food was plentiful,0.3667,food terrible,food plentiful
+173,The food was terrible,food had heaps,0.3584,food terrible,food heaps
+174,The food was terrible,food was decent,0.3421,food terrible,food decent
+175,The food was terrible,Food was decent,0.3421,food terrible,food decent
+176,The food was terrible,food was very nice,0.3354,food terrible,food nice
+177,The food was terrible,Food was nice,0.3354,food terrible,food nice
+178,The food was terrible,food was nice,0.3354,food terrible,food nice
+179,The food was terrible,food was absolutely amazing,0.3282,food terrible,food absolutely amazing
+180,The fries were terrible,Chilly masala was delicious,0.3805,fries terrible,chilly masala delicious
+181,The fries were terrible,Paratha was worth,0.3777,fries terrible,paratha worth
+182,The fries were terrible,Aloo tikki chole are really amazing,0.3762,fries terrible,aloo tikki chole really amazing
+183,The fries were terrible,manchurian was medium spicy,0.3727,fries terrible,manchurian medium spicy
+184,The fries were terrible,vada was hard,0.3700,fries terrible,vada hard
+185,The fries were terrible,Masala paratha was little bit spicy,0.3620,fries terrible,masala paratha little bit spicy
+186,The fries were terrible,masala pav are special,0.3430,fries terrible,masala pav special
+187,The fries were terrible,chole gravy was fine,0.3425,fries terrible,chole gravy fine
+188,The fries were terrible,Cole samosa was good,0.3192,fries terrible,cole samosa good
+189,The fries were terrible,paneer based dishes,0.3142,fries terrible,paneer based dishes
+190,The pizza and pasta was delicious,Pasta arabiata was average,0.4863,pizza pasta delicious,pasta arabiata average
+191,The pizza and pasta was delicious,pasta was average,0.4863,pizza pasta delicious,pasta average
+192,The pizza and pasta was delicious,helpful nuttella pizza was delicious,0.4760,pizza pasta delicious,helpful nuttella pizza delicious
+193,The pizza and pasta was delicious,cheese balls lacked oomph factor,0.4676,pizza pasta delicious,cheese balls lacked oomph factor
+194,The pizza and pasta was delicious,Barbeque and Smoked Chicken Pizza were very good,0.4672,pizza pasta delicious,barbeque smoked chicken pizza good
+195,The pizza and pasta was delicious,stir fried veggies were really good,0.4413,pizza pasta delicious,stir fried veggies really good
+196,The pizza and pasta was delicious,coffee was nice,0.4286,pizza pasta delicious,coffee nice
+197,The pizza and pasta was delicious,Cole samosa was good,0.4194,pizza pasta delicious,cole samosa good
+198,The pizza and pasta was delicious,pizza was delicious,0.3992,pizza pasta delicious,pizza delicious
+199,The pizza and pasta was delicious,Bhuna Mutton was fantastic,0.3919,pizza pasta delicious,bhuna mutton fantastic
+200,The pizzas were awesome,Kebabs are awesome,0.1755,pizzas awesome,kebabs awesome
+201,The pizzas were awesome,food was totally awesome,0.1730,pizzas awesome,food totally awesome
+202,The pizzas were awesome,Pizzas were also great,0.1067,pizzas awesome,pizzas also great
+203,The pizzas were awesome,Pizzas are delicious,0.1018,pizzas awesome,pizzas delicious
+204,The pizzas were awesome,food was excellent,0.0913,pizzas awesome,food excellent
+205,The pizzas were awesome,food are excellent,0.0913,pizzas awesome,food excellent
+206,The pizzas were awesome,Food was excellent,0.0913,pizzas awesome,food excellent
+207,The pizzas were awesome,food was good ENDPAD,0.0827,pizzas awesome,food good endpad
+208,The pizzas were awesome,food was very good,0.0827,pizzas awesome,food good
+209,The pizzas were awesome,Food was Good,0.0827,pizzas awesome,food good
+210,dal makhni was terrble,dal makhni was awful,0.0804,dal makhni terrble,dal makhni awful
+211,dal makhni was terrble,dal gosht was ok,0.0475,dal makhni terrble,dal gosht ok
+212,dal makhni was terrble,Musal pav was ok,0.0427,dal makhni terrble,musal pav ok
+213,dal makhni was terrble,shawarma are good,0.0402,dal makhni terrble,shawarma good
+214,dal makhni was terrble,dinner was full,0.0382,dal makhni terrble,dinner full
+215,dal makhni was terrble,gulab jamun are too good,0.0328,dal makhni terrble,gulab jamun good
+216,dal makhni was terrble,misal pav was spicy,0.0321,dal makhni terrble,misal pav spicy
+217,dal makhni was terrble,pav was soft,0.0314,dal makhni terrble,pav soft
+218,dal makhni was terrble,pav are very soft,0.0314,dal makhni terrble,pav soft
+219,dal makhni was terrble,gravy had loads,0.0300,dal makhni terrble,gravy loads
+220,the food was not good,food did not taste,0.2963,food not good,food not taste
+221,the food was not good,food was so tasty,0.1932,food not good,food tasty
+222,the food was not good,food was extremely tasty,0.1867,food not good,food extremely tasty
+223,the food was not good,food are special.food,0.1798,food not good,food special food
+224,the food was not good,food served very tasty,0.1782,food not good,food served tasty
+225,the food was not good,food was very nice,0.1687,food not good,food nice
+226,the food was not good,Food was nice,0.1687,food not good,food nice
+227,the food was not good,food was nice,0.1687,food not good,food nice
+228,the food was not good,food was pretty good,0.1663,food not good,food pretty good
+229,the food was not good,bananas / marshmallow,0.1609,food not good,bananas marshmallow
+230,the pizza was bad,pizza was delicious,0.6814,pizza bad,pizza delicious
+231,the pizza was bad,helpful nuttella pizza was delicious,0.6312,pizza bad,helpful nuttella pizza delicious
+232,the pizza was bad,Pizza was perfect,0.5386,pizza bad,pizza perfect
+233,the pizza was bad,pizza was average,0.5102,pizza bad,pizza average
+234,the pizza was bad,Pizza and sizzler was good.lot,0.4795,pizza bad,pizza sizzler good lot
+235,the pizza was bad,pizza was good,0.4694,pizza bad,pizza good
+236,the pizza was bad,pizza was quiet healthy,0.4193,pizza bad,pizza quiet healthy
+237,the pizza was bad,Barbeque and Smoked Chicken Pizza were very good,0.4158,pizza bad,barbeque smoked chicken pizza good
+238,the pizza was bad,masala pav are special,0.4073,pizza bad,masala pav special
+239,the pizza was bad,Keema pav was delicious,0.4055,pizza bad,keema pav delicious
