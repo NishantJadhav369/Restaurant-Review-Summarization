@@ -11,7 +11,7 @@ def index():
 def food():
     dish = request.args.get('dish_name')
     review = []
-    rev = pd.read_excel("NVA_PHRASE_SENTIMENT_215.xlsx")
+    rev = pd.read_excel("NVA_PHRASE_SENTIMENT_215.csv")
     '''
     phr = list(rev['phrase'])
     hotel = list(rev['hotel'])
@@ -44,7 +44,7 @@ def restaurant():
     rest_name = request.args.get('rest_name')
 
     review = []
-    df = pd.read_excel("NVA_PHRASE_SENTIMENT_215.xlsx")
+    df = pd.read_excel("NVA_PHRASE_SENTIMENT_215.csv")
     df['hotel'] = df['hotel'].apply(lambda s : s.lower())
     #phrase_list = list(rev[rev['hotel'] == rest_name.lower() ]['phrase'])
 
