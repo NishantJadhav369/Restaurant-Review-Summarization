@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+
+<div class="jumbotron">
+  <p>Welcome to the <b>{{rest_name}}</b> page!</p>
+<hr>
+<br>
+<h6>Frequent Reviews</h6>
+
+<!--
+<ul>
+  {% for i in range(length) %}
+  <li>{{phrase_list[i]}} - {{polarity_list[i]}}</li>
+  {% endfor %}
+</ul>
+-->
+
+<table border="1">
+	<tr>
+	<th>Sr no.</th>
+	<th>Review phrase</th>
+	<th>Polarity</th>
+	</tr>
+	{% for i in range(length) %}
+		{% if polarity_list[i] > 0 %}
+			<tr bgcolor= #7dd9a9>
+		{% elif polarity_list[i] < 0 %}
+			<tr bgcolor= #d9947d>
+		{% endif%}			
+	
+	<!--<tr bgcolor="{{col}}">-->
+		<td>
+			{{i+1}}
+		</td>
+		<td>
+			{{phrase_list[i]}}
+		</td>
+		<td>
+			{{polarity_list[i]}}
+		</td>
+	</tr>
+	{% endfor %}
+</table>
+
+</div>
+
+{% endblock %}
