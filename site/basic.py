@@ -42,9 +42,10 @@ def profile():
 @app.route('/restaurant')
 def restaurant():
     rest_name = request.args.get('rest_name')
-
+    rest_name = rest_name.lower()
     review = []
     df = pd.read_csv("NVA_PHRASE_SENTIMENT_215.csv")
+    
     df['hotel'] = df['hotel'].apply(lambda s : s.lower())
     #phrase_list = list(rev[rev['hotel'] == rest_name.lower() ]['phrase'])
 
