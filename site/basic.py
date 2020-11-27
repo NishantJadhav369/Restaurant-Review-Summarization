@@ -57,5 +57,21 @@ def restaurant():
     return render_template('restaurant.html',rest_name=rest_name,phrase_list=phrase_list,polarity_list=polarity_list,length = length)
 
 
+########
+
+@app.route('/predict',methods = ["GET","POST"])
+def predict():
+    if request.method == "POST" :
+        sentence = request.form.get("sentence")
+        #uncomment the line below after the function
+        #food = give_prediction(text)
+        food = ['name','xyz'] ## delete this line after uncommenting the above line
+        print(sentence.split(),food)
+        return render_template('predict_dish.html',food = food,sentence = sentence.split())
+    else :
+        return render_template('predict_dish.html')
+
+########
+
 if __name__ == "__main__":
 	app.run(debug=True)
