@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+
+
+<div class="container">
+<div class="jumbotron">
+  <p>Welcome to the <b>Predictions</b> page!</p>
+<hr>
+<br>
+<h6>Food tagging</h6>
+<br>
+<form action="{{url_for('predict')}}" method="POST">
+	Enter your sentence :
+	<input type="text" name="sentence"> <br>
+	<input type="submit" name="predict"> 
+</form>
+<br>
+<p>
+Result :
+
+
+	{% for word in sentence %}
+		{% if word in food %}
+			<b>{{word}}</b>
+		
+		{% else %}
+			{{word}}
+
+		{% endif %}
+		
+	{% endfor %}
+</p>
+
+
+
+</div>
+</div>
+{% endblock %}
