@@ -8,5 +8,15 @@
   <br>
   <button type="button" name="button" class="btn-success"><a href="{{'login'}}"><span style="color:white">Login Now</span></a></button>
 </div>
+<div>
+	<table class="table">
+		<th>Restaurants</th>
+		{% for rest in rest_list %}
+		<tr>
+			<td> <a href="{{url_for('restaurant')}}?rest_name={{rest}}"> {{ rest }} </a> </td>
+		</tr>
+		{% endfor %}
+	</table>
+</div>
 
 {% endblock %}

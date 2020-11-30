@@ -8,11 +8,11 @@ import tensorflow as tf
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.preprocessing.text import Tokenizer
 
-
 #### PREDICTION PAGE IMPORT ENDS #####
 
 
 app = Flask(__name__)
+
 
 #### PREDICTION PAGE CODE #####
 tag2idx,idx2tag = pickle.load(open('mlfiles/tag2idx_idx2tag_w2v_final2','rb'))
@@ -70,7 +70,9 @@ def give_prediction(text):
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    df = pd.read_csv("NVA_PHRASE_SENTIMENT_215.csv")
+    rest_list = list(df['hotel'].unique())
+    return render_template('index.html',rest_list = rest_list)
 
 @app.route('/food')
 def food():
@@ -132,7 +134,7 @@ def predict():
         sentence = sentence.lower()
         print(sentence)
         food = give_prediction(sentence)
-        # food = ['name','xyz'] ## delete this line after uncommenting the above line
+        #food = ['name','xyz'] ## delete this line after uncommenting the above line
         print(sentence.split(),food)
 
 
