@@ -12,7 +12,7 @@ phrases and aggregated the information to summarize feedback on popular dishes a
 
 # Screenshots of the deliverable website
 
-## 1) Test our food tagger by enterring your review 
+## 1) Test our food tagger by entering your review 
 
 <img width="555" alt="Screen Shot 2022-02-05 at 3 44 03 PM" src="https://user-images.githubusercontent.com/35873124/152658377-da1d54ee-3706-4f1f-b4df-3b0d32cf05bf.png">
 
