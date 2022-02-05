@@ -4,11 +4,11 @@ Final Year Undergraduate Thesis - Restaurant Review Summarization
 
 Technical skills - Time Series, LSTM, RNN, Flask, Python, NLTK, TensorFlow, Google Colab
 
-- Project focused to helps users search for popular dishes in restaurants based on review comments
-- Collated, annotated food reviews from Zomato and performed exploratory data analysis for mining text.
-- Built algorithms to extract food entity phrases using LSTM time series model, performed sentiment analysis on food
-phrases and aggregated the information to summarize feedback on popular dishes across restaurants.
-- Published a technical research paper in an ISO Certified International Journal.
+- Instituted a full stack AI system to automate review scanning and advocate dishes to customers across 51 restaurants.
+- Scraped reviews, automated data labelling process, and scaled task specific data generation.
+- Implemented LSTM seq2seq model for food-entity recognition using supervised deep learning frameworks.
+- Automated tasks in NLP pipeline by engineering scripts for part-of-speech tagging (lexical analysis), food-phrase extraction using parsing techniques (syntactic analysis), and sentiment analysis.
+- Publication: International Research Journal of Engineering and Technology.
 
 # Screenshots of the deliverable website
 
