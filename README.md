@@ -10,7 +10,7 @@ Technical skills - Time Series, LSTM, RNN, Flask, Python, NLTK, TensorFlow, Goog
 - Automated tasks in NLP pipeline by engineering scripts for part-of-speech tagging (lexical analysis), food-phrase extraction using parsing techniques (syntactic analysis), and sentiment analysis.
 - Publication: International Research Journal of Engineering and Technology.
 
-Note: site folder contains the entire code for the final deliverable website
+Note: site folder contains the entire code for the final deliverable website.
 
 # Screenshots of the deliverable website
 
