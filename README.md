@@ -1,3 +1,5 @@
+# What to eat when you visit a new restaurant? We got you covered!
+
 ## Restaurant Review Summarization 
 ### A full stack AI system to automate review scanning and advocate dishes to customers across 51 restaurants.
 
